@@ -29,7 +29,7 @@
 			<div class="text-center">
 				<img
 					class="mx-auto duration-300 rounded-xl sm:size-48 lg:size-60 hover:rotate-6 hover:scale-110"
-					src="https://github.com/tychoheezen.png"
+					src="https://github.com/acidicpotato.png"
 					alt="Acidicpotato"
 				/>
 				<div class="mt-2 sm:mt-4">
