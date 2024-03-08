@@ -6,14 +6,14 @@
 			<h2 class="text-2xl font-bold text-gray-200 md:text-4xl md:leading-tight">The Warriors</h2>
 		</div>
 		<!-- End Title -->
-
+		
 		<!-- Grid -->
-		<div class="grid grid-cols-2 gap-8 md:grid-cols-3 md:gap-12">
+		<div class="grid grid-cols-2 gap-8 md:grid-cols-4 md:gap-12">
 			<div class="text-center">
 				<img
-					class="mx-auto duration-300 rounded-xl sm:size-48 lg:size-60 hover:rotate-6 hover:scale-110"
-					src="https://github.com/Fyxren.png"
-					alt="Fyxren"
+				class="mx-auto duration-300 rounded-xl sm:size-48 lg:size-60 hover:rotate-6 hover:scale-110"
+				src="https://github.com/Fyxren.png"
+				alt="Fyxren"
 				/>
 				<div class="mt-2 sm:mt-4">
 					<h3 class="text-sm font-medium text-gray-200 sm:text-base lg:text-lg">
@@ -25,12 +25,29 @@
 				</div>
 			</div>
 			<!-- End Col -->
-
+			
 			<div class="text-center">
 				<img
 					class="mx-auto duration-300 rounded-xl sm:size-48 lg:size-60 hover:rotate-6 hover:scale-110"
-					src="https://github.com/acidicpotato.png"
-					alt="Acidicpotato"
+					src="https://github.com/rafaelcroes.png"
+					alt="Gexqon"
+				/>
+				<div class="mt-2 sm:mt-4">
+					<h3 class="text-sm font-medium text-gray-200 sm:text-base lg:text-lg">
+						Rafael // aRafael
+					</h3>
+					<p class="text-xs text-gray-400 sm:text-sm lg:text-base">
+						Chief People Pleaser (HR)
+					</p>
+				</div>
+			</div>
+			<!-- End Col -->
+			
+			<div class="text-center">
+				<img
+				class="mx-auto duration-300 rounded-xl sm:size-48 lg:size-60 hover:rotate-6 hover:scale-110"
+				src="https://github.com/acidicpotato.png"
+				alt="Acidicpotato"
 				/>
 				<div class="mt-2 sm:mt-4">
 					<h3 class="text-sm font-medium text-gray-200 sm:text-base lg:text-lg">
@@ -59,6 +76,7 @@
 				</div>
 			</div>
 			<!-- End Col -->
+
 		</div>
 		<!-- End Grid -->
 	</div>
