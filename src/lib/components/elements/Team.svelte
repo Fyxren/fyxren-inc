@@ -20,7 +20,7 @@
 						Ben // Fyxren
 					</h3>
 					<p class="text-xs text-gray-400 sm:text-sm lg:text-base">
-                        Supreme Overlord Head Master Captain-in-Chief
+                        Supreme Overlord Head Master Captain-in-Chief (SOHMCiC)
 					</p>
 				</div>
 			</div>
